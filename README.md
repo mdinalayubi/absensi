@@ -199,4 +199,4 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 </html>
 ```
 # Output
-![gambar](img/siswa.pngs)
+![gambar](img/siswa.png)
