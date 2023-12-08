@@ -1,9 +1,3 @@
-| Nama      | Muhammad Din Al Ayubi |
-| ----------- | ----------- |
-| NIM     | 312010293       |
-| Kelas   | TI.22.A.3        |
-# SISTEM ABSENSI
-```python
   <?php
 session_start();
 include ("koneksi.php");
@@ -197,6 +191,3 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
   <script src="js/main.js"></script>
 </body>
 </html>
-```
-# Output
-![gambar](img/siswa.jpg)
